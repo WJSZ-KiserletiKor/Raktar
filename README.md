@@ -1,2 +1,6 @@
 # Raktar
-Leírás a raktárban található dolgokról és feladatokról
+Leírás a raktárban található dolgokról.
+
+- kísérletek összegyűjtése és leírása
+- Eszközök összegyűjtése és leírása
+
